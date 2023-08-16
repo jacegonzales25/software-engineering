@@ -1,0 +1,14 @@
+Making virtual environment for Python
+Example: DjangoWebsite
+Create a directory for the project
+Command: python3 -m venv (project-name)
+cd (project-name)
+To activate the scripts:
+In directory - source/bin activate
+To deactivate the scripts:
+In directory - source/bin deactivate
+To view installed dependencies for the virtual environment: pip3 list
+Installing Django using pip: pip install Django
+To start a Django project: Django-admin startproject dictweb
+Travel to dictweb directory to activate server: python manage.py runservers
+To create an application: python manage.py startup phtour
