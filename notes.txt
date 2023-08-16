@@ -12,3 +12,4 @@ Installing Django using pip: pip install Django
 To start a Django project: Django-admin startproject dictweb
 Travel to dictweb directory to activate server: python manage.py runservers
 To create an application: python manage.py startup phtour
+This will init the application phtour
